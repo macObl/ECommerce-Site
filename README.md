@@ -1,5 +1,5 @@
 # ECommerce-Site
-An E-commerce website that allows you to signin/up and purchase items with the help of Strip for card transactions.
+An E-commerce website that allows you to sign in/up and purchase items with the help of Strip for card transactions.
 
 ### Install React and Node Modules
 ```bash
